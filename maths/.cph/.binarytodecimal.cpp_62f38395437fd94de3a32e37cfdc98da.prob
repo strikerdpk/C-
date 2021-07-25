@@ -1,0 +1,1 @@
+{"name":"Local: binarytodecimal","url":"/Users/deepakkushwaha/Downloads/c++/maths/binarytodecimal.cpp","tests":[{"id":1626800862491,"input":"110110","output":"54"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/deepakkushwaha/Downloads/c++/maths/binarytodecimal.cpp","group":"local","local":true}
